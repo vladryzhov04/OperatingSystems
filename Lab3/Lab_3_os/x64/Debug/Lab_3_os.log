@@ -1,0 +1,4 @@
+﻿  Lab_3_os.cpp
+D:\GitHub\OperatingSystems\Lab3\Lab_3_os\Lab_3_os.cpp(55,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\GitHub\OperatingSystems\Lab3\Lab_3_os\Lab_3_os.cpp(70,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab_3_os.vcxproj -> D:\GitHub\OperatingSystems\Lab3\Lab_3_os\x64\Debug\Lab_3_os.exe

@@ -1,0 +1,2 @@
+D:\GitHub\OperatingSystems_C++\Lab4\Lab_4_os\x64\Debug\Lab_4_os.exe
+D:\GitHub\OperatingSystems\Lab4\Lab_4_os\x64\Debug\Lab_4_os.exe
